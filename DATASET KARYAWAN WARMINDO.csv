@@ -1,0 +1,106 @@
+kode_karyawan,posisi_karyawan,nama_karyawan,jenis_kelamin,kode_cabang,cabang
+KB111,Kasir,Dimas Nugraha,Laki-laki,BA111,Bandung
+KCB111,Kitchen,Juwita Maharani,Perempuan,BA111,Bandung
+KCB122,Kitchen,Adi Permana,Laki-laki,BA111,Bandung
+KCB133,Kitchen,Seliya Pertiwi,Perempuan,BA111,Bandung
+KCB144,Kitchen,Dwi Cahyani,Perempuan,BA111,Bandung
+KCB155,Kitchen,Ahmad Nugraha,Laki-laki,BA111,Bandung
+WRB111,Waiters,Bunga Lestari,Perempuan,BA111,Bandung
+WRB122,Waiters,Budiono,Laki-laki,BA111,Bandung
+WRB133,Waiters,Kirana Cantika,Perempuan,BA111,Bandung
+WRB144,Waiters,Kevin Candra,Laki-laki,BA111,Bandung
+WRB155,Waiters,Mila Purnama,Perempuan,BA111,Bandung
+CSB111,Cleaning Service,Setiawan Cahyono,Laki-laki,BA111,Bandung
+CSB122,Cleaning Service,Yoga Wirawan,Laki-laki,BA111,Bandung
+CSB133,Cleaning Service,Andika Putra,Laki-laki,BA111,Bandung
+CSB144,Cleaning Service,Satria Wiguna,Laki-laki,BA111,Bandung
+CSB155,Cleaning Service,Fajar Nugraha,Laki-laki,BA111,Bandung
+PDB111,Petugas Delivery,Alif Kurniawan,Laki-laki,BA111,Bandung
+PDB122,Petugas Delivery,Laksmi Dewi,Perempuan,BA111,Bandung
+PDB133,Petugas Delivery,Ayu Lestari,Perempuan,BA111,Bandung
+PDB144,Petugas Delivery,Siti Rahma,Perempuan,BA111,Bandung
+PDB155,Petugas Delivery,Rio Pratama,Laki-laki,BA111,Bandung
+KB222,Kasir,Indah Wulandari,Perempuan,BK222,Bekasi
+KCB211,Kitchen,Dewi Kartika,Perempuan,BK222,Bekasi
+KCB222,Kitchen,Andi Saputra,Laki-laki,BK222,Bekasi
+KCB233,Kitchen,Maya Sari,Perempuan,BK222,Bekasi
+KCB244,Kitchen,Bagus Prasetyo,Laki-laki,BK222,Bekasi
+KCB255,Kitchen,Taufik Hidayat,Laki-laki,BK222,Bekasi
+WRB211,Waiters,Adi Kurniawan,Laki-laki,BK222,Bekasi
+WRB222,Waiters,Sri Wahyuni,Perempuan,BK222,Bekasi
+WRB233,Waiters,Anisa Putri,Perempuan,BK222,Bekasi
+WRB244,Waiters,Nina Maharani,Perempuan,BK222,Bekasi
+WRB255,Waiters,Arif Nugroho,Laki-laki,BK222,Bekasi
+CSB211,Cleaning Service,Eko Santoso,Laki-laki,BK222,Bekasi
+CSB222,Cleaning Service,Iwan Setiawan,Laki-laki,BK222,Bekasi
+CSB233,Cleaning Service,Hendra Wijaya,Laki-laki,BK222,Bekasi
+CSB244,Cleaning Service,Dani Wirawan,Laki-laki,BK222,Bekasi
+CSB255,Cleaning Service,Toni Kusuma,Laki-laki,BK222,Bekasi
+PDB211,Petugas Delivery,Lisa Maharani,Perempuan,BK222,Bekasi
+PDB222,Petugas Delivery,Yusuf Hidayat,Laki-laki,BK222,Bekasi
+PDB233,Petugas Delivery,Aulia Safitri,Perempuan,BK222,Bekasi
+PDB244,Petugas Delivery,Ahmad Fauzi,Laki-laki,BK222,Bekasi
+PDB255,Petugas Delivery,Retno Anggraini,Perempuan,BK222,Bekasi
+KC333,Kasir,Dina Oktaviani,Perempuan,CN333,Cirebon
+KCC311,Kitchen,Febi Nuraini,Perempuan,CN333,Cirebon
+KCC322,Kitchen,Rina Kusuma,Perempuan,CN333,Cirebon
+KCC333,Kitchen,Rama Setiawan,Laki-laki,CN333,Cirebon
+KCC344,Kitchen,Dian Ayu Lestari,Perempuan,CN333,Cirebon
+KCC355,Kitchen,Gilang Mahendra,Laki-laki,CN333,Cirebon
+WRC311,Waiters,Melati Kartika,Perempuan,CN333,Cirebon
+WRC322,Waiters,Irma Yuliana,Perempuan,CN333,Cirebon
+WRC333,Waiters,Rafi Pratama,Laki-laki,CN333,Cirebon
+WRC344,Waiters,Bayu Anggara,Laki-laki,CN333,Cirebon
+WRC355,Waiters,Sandi Kurniawan,Laki-laki,CN333,Cirebon
+CSC311,Cleaning Service,Herman Setiawan,Laki-laki,CN333,Cirebon
+CSC322,Cleaning Service,Elsa Dewi,Perempuan,CN333,Cirebon
+CSC333,Cleaning Service,Arya Nugraha,Laki-laki,CN333,Cirebon
+CSC344,Cleaning Service,Ratna Sari,Perempuan,CN333,Cirebon
+CSC355,Cleaning Service,Nadia Putri,Perempuan,CN333,Cirebon
+PDC311,Petugas Delivery,Haris Setiawan,Laki-laki,CN333,Cirebon
+PDC322,Petugas Delivery,Anggi Wulandari,Perempuan,CN333,Cirebon
+PDC333,Petugas Delivery,Yuni Saraswati,Perempuan,CN333,Cirebon
+PDC344,Petugas Delivery,Ridwan Prasetyo,Laki-laki,CN333,Cirebon
+PDC355,Petugas Delivery,Vina Maharani,Perempuan,CN333,Cirebon
+KP444,Kasir,Dimas Pratama,Laki-laki,PA444,Purwakarta
+KP411,Kitchen,Johan Kurniawan,Laki-laki,PA444,Purwakarta
+KP422,Kitchen,Eka Maharani,Perempuan,PA444,Purwakarta
+KP433,Kitchen,Bayu Hidayat,Laki-laki,PA444,Purwakarta
+KP444,Kitchen,Farhan Wijaya,Laki-laki,PA444,Purwakarta
+KP455,Kitchen,Rendi Santoso,Laki-laki,PA444,Purwakarta
+WRP411,Waiters,Eka Nugraha,Laki-laki,PA444,Purwakarta
+WRP422,Waiters,Maya Sulastri,Perempuan,PA444,Purwakarta
+WRP433,Waiters,Ratih Anggraeni,Perempuan,PA444,Purwakarta
+WRP444,Waiters,Dedi Suryana,Laki-laki,PA444,Purwakarta
+WRP455,Waiters,Fikri Pratama,Laki-laki,PA444,Purwakarta
+CSP411,Cleaning Service,Sinta Maharani,Perempuan,PA444,Purwakarta
+CSP422,Cleaning Service,Roy Anggara,Laki-laki,PA444,Purwakarta
+CSP433,Cleaning Service,Lina Yuliani,Perempuan,PA444,Purwakarta
+CSP444,Cleaning Service,Bagas Wijaya,Laki-laki,PA444,Purwakarta
+CSP455,Cleaning Service,Fira Wulandari,Perempuan,PA444,Purwakarta
+PDP411,Petugas Delivery,Haris Pranata,Laki-laki,PA444,Purwakarta
+PDP422,Petugas Delivery,Evi Lestari,Perempuan,PA444,Purwakarta
+PDP433,Petugas Delivery,Mutia Safitri,Perempuan,PA444,Purwakarta
+PDP444,Petugas Delivery,Hafiz Ramadhan,Laki-laki,PA444,Purwakarta
+PDP455,Petugas Delivery,Jaka Permana,Laki-laki,PA444,Purwakarta
+KS555,Kasir,Astika Wiguna,Laki-laki,SK555,Sukabumi
+KCS511,Kitchen,Saputra Mahendra,Laki-laki,SK555,Sukabumi
+KCS522,Kitchen,Imam Wahyudi,Laki-laki,SK555,Sukabumi
+KCS533,Kitchen,Bisma Cahyadi,Perempuan,SK555,Sukabumi
+KCS544,Kitchen,Juli Irwansyah,Laki-laki,SK555,Sukabumi
+KCS555,Kitchen,Putra Bagaskara,Laki-laki,SK555,Sukabumi
+WRS511,Waiters,Selamet Haryanto,Laki-laki,SK555,Sukabumi
+WRS522,Waiters,Angga Putra,Laki-laki,SK555,Sukabumi
+WRS533,Waiters,Laksana Putra,Laki-laki,SK555,Sukabumi
+WRS544,Waiters,Marisa Kusuma,Perempuan,SK555,Sukabumi
+WRS555,Waiters,Darma Jaya,Laki-laki,SK555,Sukabumi
+CSS511,Cleaning Service,Firda Fitriyani,Perempuan,SK555,Sukabumi
+CSS522,Cleaning Service,Aldi Sastra,Laki-laki,SK555,Sukabumi
+CSS533,Cleaning Service,Wahyu Hidayat,Laki-laki,SK555,Sukabumi
+CSS544,Cleaning Service,Andre Mulyawan,Laki-laki,SK555,Sukabumi
+CSS555,Cleaning Service,Adam Irwansyah,Laki-laki,SK555,Sukabumi
+PDS511,Petugas Delivery,Kemal Wijaya,Laki-laki,SK555,Sukabumi
+PDS522,Petugas Delivery,Naksa Pratama,Laki-laki,SK555,Sukabumi
+PDS533,Petugas Delivery,Alex Hendrawan,Laki-laki,SK555,Sukabumi
+PDS544,Petugas Delivery,Olivia Saputri,Perempuan,SK555,Sukabumi
+PDS555,Petugas Delivery,Sigit Gunawan,Laki-laki,SK555,Sukabumi
